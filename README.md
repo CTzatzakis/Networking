@@ -2,7 +2,7 @@
 Networking (PHP functions)
 
 ## Motivation
-Working on inforamtion security lead in writing code and scripts for testing, part of that code is presented here.
+Working on inforamtion security led me to write code and scripts for testing, part of that code is presented here.
 
 ## License
 
